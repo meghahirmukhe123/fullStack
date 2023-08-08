@@ -1,0 +1,29 @@
+<h2>{{title}}</h2>
+<ul>
+    <li *ngFor="let u of users">stuid:  {{u.id}} <br> stuname:  {{u.stuname}}  <br> stufees:  {{u.stufees}} </li>
+    
+</ul>
+
+<!-- lets add above data in footer -->
+<h2>
+<app-footer></app-footer>
+</h2>
+
+<!-- lets create a form to save data in database. i.e. post method -->
+<form #userData="ngForm" (ngSubmit)="getUser(userData.value)">
+    <input type="text" ngModel  name="id" placeholder="Enter student id" />
+    <br>
+    <br>
+ 
+    <input type="text"  ngModel name="stuname" placeholder="Enter student name" />
+    <br>
+    <br>
+    <input type="text" ngModel name="fees" placeholder="Enter student fees" />
+    <br><br>
+
+    <button>Submit</button>
+
+</form>
+
+
+
