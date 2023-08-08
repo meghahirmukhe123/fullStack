@@ -1,0 +1,21 @@
+<h1>{{title}}</h1>
+<form [formGroup]="loginform" (ngSubmit)="loginuser()">
+  <!-- "formControlName" this is used for binding -->
+  <input type="text" placeholder="enter email" name="name" formControlName="user">
+  <br>
+  <span *ngIf="user && user.invalid && user.touched" style="color: red;"> this feild should not be empty</span>
+
+  <br>
+  <br>
+
+  <input type="password" placeholder="enter password" name="password" formControlName="password">
+  <br>
+  <span *ngIf="password && password.invalid && password.touched" style="color: red;"> password should be more than 5 characters</span>
+  <br>
+  <!-- we have used "[disabled]="loginform.invalid" this bcoz if validation is not right then login button should not work if validation is right login button will work -->
+  <button [disabled]="loginform.invalid">
+    login
+  </button>
+
+
+</form>
