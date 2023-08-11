@@ -1,0 +1,9 @@
+<div class="bootstrap wrapper">
+    <div class="container text-center margin-top" >
+
+        <h1 style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">welcome to admin panel</h1>
+       
+        <h1 *ngIf="user" style="color: orangered;font-family:'Times New Roman', Times, serif;">Data is: {{user.message}}</h1>
+        <button (click)="getUser()">click </button>
+        </div>
+</div>

@@ -1,0 +1,48 @@
+<div class="bootstrap-wrapper">
+    <div class="container margin-top ">
+        <div class="row">
+
+
+            <div class="col-md-6 offset-md-3">
+
+                <div class="container text-center">
+                    <img class="img-fluid" style="width: 100px;"
+                        src="https://cdn-icons-png.flaticon.com/512/295/295128.png">
+                </div>
+                <h1 class="text-center">Login please!! </h1>
+
+                <!-- created form -->
+                <form (ngSubmit)="onSubmit()">
+                    <mat-form-field class="full-width">
+                        <mat-label> Username</mat-label>
+                        <input [(ngModel)]="credentials.username" name="username" required type="text" matInput>
+
+                    </mat-form-field>
+
+
+                    <mat-form-field class="full-width">
+                        <mat-label> Password</mat-label>
+                        <input [(ngModel)]="credentials.password" name="password" required type="password" matInput>
+
+                    </mat-form-field>
+
+                    <!-- creating button -->
+                    <div class="container text-center">
+                        <button type="submit" mat-raised-button color="primary">
+                            Login
+                        </button>
+
+                        <button style="margin-left: 10px;" type="reset" mat-raised-button color="pink">
+                            Reset
+                        </button>
+                    </div>
+
+
+
+                </form>
+
+
+            </div>
+        </div>
+    </div>
+</div>
