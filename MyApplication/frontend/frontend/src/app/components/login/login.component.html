@@ -1,0 +1,37 @@
+<div class="container">
+    <h2>Login Form</h2>
+    <div class="container">
+    <form (submit)="loginUser()">
+        <small class="text-danger">{{msg}}</small>
+
+      <div class="form-group">
+        <label for="name">Username/Firstname:</label>
+        <input type="email" class="form-control"  placeholder="Enter username/firstname" name="email" [(ngModel)]="user.firstname" required #firstname="ngModel"
+        [class.isInvalid]="firstname.invalid && firstname.touched">
+        
+        <small class="text-danger" [class.d-none]="firstname.valid || firstname.untouched">username is required</small>
+      </div>
+      <br>
+
+      <div class="form-group">
+        <label for="pwd">Password:</label>
+        <input type="password" class="form-control"  placeholder="Enter password" name="pwd" [(ngModel)]="user.password"  #password="ngModel" required
+        [class.isInvalid]="password.invalid && password.touched"
+        >
+        <small class="text-danger" [class.d-none]="password.valid || password.untouched">password is required</small>
+      </div>
+
+      <br>
+
+      
+      <button type="submit" class="btn btn-info">Login</button>
+    </form>
+  </div>
+    <br>
+
+    
+    <small [routerLink]="['/register']" > New user ? Register here</small>
+   
+  </div>
+
+

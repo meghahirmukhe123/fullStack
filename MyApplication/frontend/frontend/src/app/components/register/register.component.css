@@ -1,0 +1,23 @@
+.full-width {
+    width: 50%;
+}
+
+.body {
+    background-image: url('https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Circle-Simple-Background-Image-1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+    background-size: cover; 
+    height: 96vh;
+    margin: 0;
+    padding: 0;  
+    
+}
+
+
+
+mat-form-field,
+button {
+    margin-right: 10px;
+    margin-bottom: 0px;
+}

@@ -1,0 +1,57 @@
+<div class="bootstrap-wrapper body">
+    <div class="container margin-top ">
+        <div class="row">
+            <div class="container">
+                <br>
+                <br>
+                <br>
+                <img class="img-fluid" style="width: 110px;"
+                    src="https://www.nicepng.com/png/detail/218-2189913_register-here-icon-png.png">
+
+                <br>
+                <br>
+
+            </div>
+            <!-- created form -->
+            <form (ngSubmit)="registerUser()">
+                <mat-form-field class="full-width">
+
+                    <mat-label> First-Name</mat-label>
+                    <input [(ngModel)]="user.firstname" name="firstname" required type="text" matInput
+                        [(ngModel)]="user.firstname" required #firstname="ngModel"
+                        [class.isInvalid]="firstname.invalid && firstname.touched">
+                    <small class="text-danger" [class.d-none]="firstname.valid || firstname.untouched">firstname is
+                        required</small>
+
+                </mat-form-field>
+
+
+                <mat-form-field class="full-width">
+                    <mat-label>Email-Id</mat-label>
+                    <input [(ngModel)]="user.email" name="email" required type="email" matInput [(ngModel)]="user.email"
+                        required #emailid="ngModel" [class.isInvalid]="emailid.invalid && emailid.touched">
+                    <small class="text-danger" [class.d-none]="emailid.valid || emailid.untouched">emailid is
+                        required</small>
+
+                </mat-form-field>
+
+                <mat-form-field class="full-width">
+                    <mat-label>Password</mat-label>
+                    <input [(ngModel)]="user.password" name="password" required type="password" matInput
+                        [(ngModel)]="user.password" #password="ngModel" required
+                        [class.isInvalid]="password.invalid && password.touched">
+                    <small class="text-danger" [class.d-none]="password.valid || password.untouched">Password is
+                        required</small>
+
+                </mat-form-field>
+
+                <!-- creating button -->
+                <div class="container">
+                   
+                    <button type="submit" class="btn btn-info">Register</button>
+
+
+                </div>
+            </form>
+        </div>
+    </div>
