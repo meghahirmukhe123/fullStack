@@ -1,7 +1,5 @@
 package com.IdentityService.config;
 
-
-
 import org.springframework.context.annotation.Bean;
 
 import org.springframework.context.annotation.Configuration;
@@ -24,37 +22,45 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 @CrossOrigin(origins = "http://localhost:4200")
 public class AuthConfig {
 
-	
-
-
 	// following is for connecting with database to get username and password for
 	// token
-	//we have declare following bean to configure user details
+	// we have declare following bean to configure user details
 	@Bean
 	public UserDetailsService userDetailsService() {
 		return new CustomUserDetailsService();
 	}
 
-	//we write method with info like which url have to authenticate ,who can access that based on role and which type
-	//of authentication we are using like form based or basic authentication
+	// we write method with info like which url have to authenticate ,who can access
+	// that based on role and which type
+	// of authentication we are using like form based or basic authentication
+	@SuppressWarnings("deprecation")
 	@Bean
 	public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception
 
 	{
-		
-		//csrf= cross site request forgeryf
-		http.csrf(csrf -> csrf.disable())
-				.authorizeRequests()
-				.requestMatchers("/auth/**","/auth/token","/auth/register")
-				.permitAll()
-				.anyRequest()
-				.authenticated()
-				.and()
-				
-		.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);
+
+//		//csrf= cross site request forgeryf
+//		http.csrf(csrf -> csrf.disable())
+//				.authorizeRequests()
+//				.requestMatchers("/auth/**","/auth/token","/auth/register")
+//				.permitAll()
+//				.anyRequest()
+//				.authenticated()
+//				.and()
+//				
+//		.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);
+//		return http.build();
+
+		http
+
+				.csrf(csrf -> csrf.disable())
+
+				.authorizeRequests().requestMatchers("/auth/**","/auth/register","/auth/token").permitAll(
+						).anyRequest().authenticated().and();
+
+		http.cors(cors -> cors.disable());
 		return http.build();
-		
-		
+
 	}
 
 	@Bean
@@ -62,7 +68,8 @@ public class AuthConfig {
 		return new BCryptPasswordEncoder();
 	}
 
-	//DaoAuthenticationProvider uses the UserDetailsService to fetch user details and the PasswordEncoder to validate passwords during authentication. 
+	// DaoAuthenticationProvider uses the UserDetailsService to fetch user details
+	// and the PasswordEncoder to validate passwords during authentication.
 
 	@Bean
 	public AuthenticationProvider authenticationProvider() {

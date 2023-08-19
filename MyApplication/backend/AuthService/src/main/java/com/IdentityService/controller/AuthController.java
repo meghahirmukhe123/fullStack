@@ -20,8 +20,9 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 @RestController
-@RequestMapping("/auth")
+
 @CrossOrigin(origins = "http://localhost:4200")
+@RequestMapping("/auth")
 public class AuthController {
 	
 	@Autowired

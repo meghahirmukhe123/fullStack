@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './components/home/home.component';
-import { LoginComponent } from './components/login/login.component';
+
 import { RegisterComponent } from './components/register/register.component';
 
 import {MatToolbarModule} from '@angular/material/toolbar';
@@ -16,6 +16,10 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatButtonModule} from '@angular/material/button';
 import { HttpClientModule } from '@angular/common/http';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
+import { LoginComponent } from './components/login/login.component';
+import { UserdetailsComponent } from './components/userdetails/userdetails.component';
+import { PersonaldetailsComponent } from './components/personaldetails/personaldetails.component';
+import { ProductdetailsComponent } from './components/productdetails/productdetails.component';
 
 
 
@@ -23,9 +27,13 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
   declarations: [
     AppComponent,
     HomeComponent,
-    LoginComponent,
+   
     RegisterComponent,
-    DashboardComponent
+    DashboardComponent,
+    LoginComponent,
+    UserdetailsComponent,
+    PersonaldetailsComponent,
+    ProductdetailsComponent
     
   ],
   imports: [

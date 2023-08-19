@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
 import { LoginService } from 'src/app/services/login.service';
 import { User } from 'src/app/user';
 
@@ -8,39 +7,49 @@ import { User } from 'src/app/user';
   templateUrl: './login.component.html',
   styleUrls: ['./login.component.css']
 })
-export class LoginComponent implements OnInit {
-
-  msg = '';
+export class LoginComponent implements OnInit{
+  msg='';
   user=new User();
 
- 
-
-  constructor(private router: Router, private loginservice: LoginService) {
+  credentials =
+  {
+    name: this.user.name,
+    password: this.user.password
 
   }
+
+  constructor(private loginservice:LoginService){}
   ngOnInit(): void {
-
+    
   }
 
-  loginUser() {
-   
-    
-    if (this.user.firstname !== '' && this.user.password !== '') {
-      this.loginservice.generateToken(this.user).subscribe(
-        (response: any) => {
-          
-          console.log(response.token)
-          this.loginservice.loginuser(response.token)
-          window.location.href = "/dashboard";
+  loginUser()
+  {
+
+    console.log("this is loginuser funtion");
+    if(this.credentials.name !=='' && this.credentials.password !=='')
+    {
+      this.loginservice.generateToken(this.credentials)
+      .subscribe
+      (
+        (response :any)=>
+        {
+          console.log("token",response.token);
+          window.location.href="/dashboard";
         },
-        (error: any) => {
-          alert("error");
-        }
-      );
-    } else {
-      alert("fields empty");
+        
+          (error:any) =>
+          {
+            alert("error in login user funtion");
+
+          }
+
+        
+      )
+    }
+    else{
+      alert("feilds empty");
     }
   }
+
 }
-
-

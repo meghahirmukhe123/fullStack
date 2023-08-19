@@ -1,0 +1,28 @@
+body{
+    flex: 0 auto;
+}
+
+
+
+
+  .img-row {
+    margin-top: 10%;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .img-row a {
+    display: inline-block;
+    margin: 0 40px; /* Adjust margin as needed */
+  }
+  
+  .img-row img {
+    width: 159px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  
+
+  

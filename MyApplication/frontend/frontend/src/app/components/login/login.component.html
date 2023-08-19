@@ -1,20 +1,27 @@
-<div class="container">
-    <h2>Login Form</h2>
+
+<div class="container body">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 class="text-center" style="font-family:Georgia, 'Times New Roman', Times, serif;"> Login here!!</h2>
     <div class="container">
-    <form (submit)="loginUser()">
+    <form (submit)="loginUser()" style="width:auto;">
         <small class="text-danger">{{msg}}</small>
 
-      <div class="form-group">
-        <label for="name">Username/Firstname:</label>
-        <input type="email" class="form-control"  placeholder="Enter username/firstname" name="email" [(ngModel)]="user.firstname" required #firstname="ngModel"
-        [class.isInvalid]="firstname.invalid && firstname.touched">
+      <div class="form-group full-width">
+        <label for="name"  style="font-family:Georgia, 'Times New Roman', Times, serif;" >Username:</label>
+        <input type="text" class="form-control"  placeholder="Enter username" name="nmae" [(ngModel)]="user.name" required #name="ngModel"
+        [class.isInvalid]="name.invalid && name.touched">
         
-        <small class="text-danger" [class.d-none]="firstname.valid || firstname.untouched">username is required</small>
+        <small class="text-danger" [class.d-none]="name.valid || name.untouched">username is required</small>
       </div>
       <br>
 
-      <div class="form-group">
-        <label for="pwd">Password:</label>
+      <div class="form-group full-width">
+        <label for="pwd"  style="font-family:Georgia, 'Times New Roman', Times, serif;">Password:</label>
         <input type="password" class="form-control"  placeholder="Enter password" name="pwd" [(ngModel)]="user.password"  #password="ngModel" required
         [class.isInvalid]="password.invalid && password.touched"
         >
@@ -23,15 +30,19 @@
 
       <br>
 
-      
-      <button type="submit" class="btn btn-info">Login</button>
+      <div class="text-center">
+      <button type="submit" class="btn btn-info" >Login</button>
+      </div>
     </form>
   </div>
     <br>
 
-    
-    <small [routerLink]="['/register']" > New user ? Register here</small>
-   
-  </div>
+    <div class="text-center">
+    <h6 [routerLink]="['/register']"> New user? <b><u>Register here</u></b></h6>
+   </div>
+  
+
+
+
 
 

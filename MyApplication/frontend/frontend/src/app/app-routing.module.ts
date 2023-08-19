@@ -4,10 +4,13 @@ import { LoginComponent } from './components/login/login.component';
 import { RegisterComponent } from './components/register/register.component';
 import { HomeComponent } from './components/home/home.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
+import { UserdetailsComponent } from './components/userdetails/userdetails.component';
+import { PersonaldetailsComponent } from './components/personaldetails/personaldetails.component';
+import { ProductdetailsComponent } from './components/productdetails/productdetails.component';
 
 const routes: Routes = [
   {
-    path:'',
+    path:'home',
     component:HomeComponent,
     pathMatch:'full'
   },
@@ -25,6 +28,21 @@ const routes: Routes = [
   {
     path:'dashboard',
     component:DashboardComponent,
+    pathMatch:'full'
+  },
+  {
+    path:'userdetails',
+    component:UserdetailsComponent,
+    pathMatch:'full'
+  },
+  {
+    path:'personaldetails',
+    component:PersonaldetailsComponent,
+    pathMatch:'full'
+  },
+  {
+    path:'productdetails',
+    component:ProductdetailsComponent,
     pathMatch:'full'
   }
 ]
