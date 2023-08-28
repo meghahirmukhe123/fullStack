@@ -1,0 +1,48 @@
+<div class="body">
+    <br>
+    <div class="col-md-6 offset-md-3">
+        <h3>Update Product-details</h3>
+    
+
+            <form (ngSubmit)="onSubmit()">
+                <div class="form-group">
+                  <label>Email-id</label>
+                  <input type="email" class="form-control" id="emailId" [(ngModel)]="product.emailId" name="emailId" >
+                </div>
+
+            <div class="form-group">
+                <label> Product Name </label>
+                <input type="text" class="form-control" id="productName" [(ngModel)]="product.productName" name="productName" >
+            </div>
+
+            <div class="form-group">
+                <label>Price</label>
+                <input type="number" class="form-control" id="price" [(ngModel)]="product.price" name="price" >
+            </div>
+
+            <div class="form-group">
+                <label>Date</label>
+                <input type="text" class="form-control" id="date" [(ngModel)]="product.date" name="date" >
+            </div>
+
+           
+            <br>
+
+           
+            <button class="btn btn-success" type="submit">Submit</button>
+        </form>
+    </div>
+</div>
+
+
+  
+
+
+
+  
+
+
+
+ 
+
+  
