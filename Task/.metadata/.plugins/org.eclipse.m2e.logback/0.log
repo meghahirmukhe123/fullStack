@@ -1,0 +1,453 @@
+2023-08-31 12:05:08,415 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-08-31 12:06:11,990 [Worker-6: Creating project "startPoint"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.startPoint:startPoint:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\pom.xml.
+2023-08-31 12:06:33,736 [Worker-11: Creating project "EurekaServer"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:EurekaServer:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer\pom.xml.
+2023-08-31 12:06:34,088 [Worker-11: Creating project "EurekaServer"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaServer/src/main/java
+2023-08-31 12:06:34,089 [Worker-11: Creating project "EurekaServer"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/main/resources
+2023-08-31 12:06:34,090 [Worker-11: Creating project "EurekaServer"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaServer/src/test/java
+2023-08-31 12:06:34,092 [Worker-11: Creating project "EurekaServer"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/test/resources
+2023-08-31 12:06:36,338 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-31 12:06:36,348 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-31 12:06:36,354 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-31 12:06:36,356 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-31 12:06:39,836 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.startPoint:startPoint:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\pom.xml.
+2023-08-31 12:06:40,268 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:EurekaServer:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer\pom.xml.
+2023-08-31 12:06:48,349 [Worker-8: Creating project "AuthService"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:AuthService:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService\pom.xml.
+2023-08-31 12:06:48,656 [Worker-8: Creating project "AuthService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/main/java
+2023-08-31 12:06:48,656 [Worker-8: Creating project "AuthService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/main/resources
+2023-08-31 12:06:48,658 [Worker-8: Creating project "AuthService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/test/java
+2023-08-31 12:06:48,658 [Worker-8: Creating project "AuthService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/test/resources
+2023-08-31 12:06:48,890 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-31 12:06:48,892 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-31 12:06:48,894 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-31 12:06:48,896 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-31 12:06:50,340 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.startPoint:startPoint:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\pom.xml.
+2023-08-31 12:06:50,749 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:EurekaServer:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer\pom.xml.
+2023-08-31 12:06:50,795 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:AuthService:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService\pom.xml.
+2023-08-31 12:07:07,562 [Worker-17: Creating project "ApiGateway"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway\pom.xml.
+2023-08-31 12:07:07,877 [Worker-17: Creating project "ApiGateway"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2023-08-31 12:07:07,877 [Worker-17: Creating project "ApiGateway"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2023-08-31 12:07:07,877 [Worker-17: Creating project "ApiGateway"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2023-08-31 12:07:07,877 [Worker-17: Creating project "ApiGateway"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/test/resources
+2023-08-31 12:07:08,108 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-31 12:07:08,110 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-31 12:07:08,115 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-31 12:07:08,119 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-31 12:07:10,499 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.startPoint:startPoint:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\pom.xml.
+2023-08-31 12:07:10,914 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:AuthService:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService\pom.xml.
+2023-08-31 12:07:10,969 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:EurekaServer:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer\pom.xml.
+2023-08-31 12:07:11,023 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway\pom.xml.
+2023-08-31 12:07:19,420 [Worker-9: Creating project "UserDetails"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:UserDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\UserDetails\pom.xml.
+2023-08-31 12:07:19,708 [Worker-9: Creating project "UserDetails"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserDetails/src/main/java
+2023-08-31 12:07:19,708 [Worker-9: Creating project "UserDetails"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/main/resources
+2023-08-31 12:07:19,710 [Worker-9: Creating project "UserDetails"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserDetails/src/test/java
+2023-08-31 12:07:19,710 [Worker-9: Creating project "UserDetails"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/test/resources
+2023-08-31 12:07:20,003 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-31 12:07:20,005 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-31 12:07:20,007 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-31 12:07:20,008 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-31 12:07:23,390 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.startPoint:startPoint:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\pom.xml.
+2023-08-31 12:07:23,722 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:AuthService:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService\pom.xml.
+2023-08-31 12:07:23,762 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway\pom.xml.
+2023-08-31 12:07:23,799 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:EurekaServer:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer\pom.xml.
+2023-08-31 12:07:23,829 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:UserDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\UserDetails\pom.xml.
+2023-08-31 12:07:29,569 [Worker-8: Creating project "PersonalDetails"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:PersonalDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\PersonalDetails\pom.xml.
+2023-08-31 12:07:29,796 [Worker-8: Creating project "PersonalDetails"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PersonalDetails/src/main/java
+2023-08-31 12:07:29,796 [Worker-8: Creating project "PersonalDetails"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PersonalDetails/src/main/resources
+2023-08-31 12:07:29,796 [Worker-8: Creating project "PersonalDetails"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PersonalDetails/src/test/java
+2023-08-31 12:07:29,797 [Worker-8: Creating project "PersonalDetails"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PersonalDetails/src/test/resources
+2023-08-31 12:07:30,028 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-31 12:07:30,030 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-31 12:07:30,033 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-31 12:07:30,035 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-31 12:07:30,445 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.startPoint:startPoint:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\pom.xml.
+2023-08-31 12:07:30,625 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:AuthService:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService\pom.xml.
+2023-08-31 12:07:30,645 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway\pom.xml.
+2023-08-31 12:07:30,662 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:UserDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\UserDetails\pom.xml.
+2023-08-31 12:07:30,679 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:EurekaServer:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer\pom.xml.
+2023-08-31 12:07:30,696 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:PersonalDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\PersonalDetails\pom.xml.
+2023-08-31 12:07:39,970 [Worker-11: Creating project "ProductDetails"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:ProductDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ProductDetails\pom.xml.
+2023-08-31 12:07:40,241 [Worker-11: Creating project "ProductDetails"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductDetails/src/main/java
+2023-08-31 12:07:40,241 [Worker-11: Creating project "ProductDetails"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductDetails/src/main/resources
+2023-08-31 12:07:40,242 [Worker-11: Creating project "ProductDetails"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductDetails/src/test/java
+2023-08-31 12:07:40,242 [Worker-11: Creating project "ProductDetails"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductDetails/src/test/resources
+2023-08-31 12:07:40,484 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-31 12:07:40,485 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-31 12:07:40,487 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-31 12:07:40,489 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-31 12:07:41,766 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.startPoint:startPoint:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\pom.xml.
+2023-08-31 12:07:41,959 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:AuthService:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService\pom.xml.
+2023-08-31 12:07:41,979 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway\pom.xml.
+2023-08-31 12:07:42,006 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:UserDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\UserDetails\pom.xml.
+2023-08-31 12:07:42,028 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:PersonalDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\PersonalDetails\pom.xml.
+2023-08-31 12:07:42,050 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:EurekaServer:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer\pom.xml.
+2023-08-31 12:07:42,075 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.startPoint:ProductDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ProductDetails\pom.xml.
+2023-08-31 12:08:09,776 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.APIGATEWAY:APIGATEWAY:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway\pom.xml.
+2023-08-31 12:08:11,201 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:08:11,229 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:08:11,234 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:08:11,606 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 12:08:12,019 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.APIGATEWAY:APIGATEWAY:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway\pom.xml.
+2023-08-31 12:08:13,397 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2023-08-31 12:08:13,397 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2023-08-31 12:08:13,397 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2023-08-31 12:08:13,398 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2023-08-31 12:08:13,399 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/test/resources
+2023-08-31 12:08:14,858 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2023-08-31 12:08:14,873 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 12:08:15,464 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.APIGATEWAY:APIGATEWAY:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway\pom.xml.
+2023-08-31 12:08:17,806 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2023-08-31 12:08:17,807 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2023-08-31 12:08:17,807 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2023-08-31 12:08:17,808 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2023-08-31 12:08:17,809 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/test/resources
+2023-08-31 12:08:19,161 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2023-08-31 12:08:20,127 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:08:20,163 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:08:20,170 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:08:28,488 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.AuthService:AuthService:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService\pom.xml.
+2023-08-31 12:08:29,458 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:08:29,502 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:08:29,512 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:08:29,867 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 12:08:30,383 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.AuthService:AuthService:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService\pom.xml.
+2023-08-31 12:08:32,175 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/main/java
+2023-08-31 12:08:32,175 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/main/resources
+2023-08-31 12:08:32,176 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/main/resources
+2023-08-31 12:08:32,177 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/test/java
+2023-08-31 12:08:32,178 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/test/resources
+2023-08-31 12:08:33,604 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2023-08-31 12:08:33,609 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 12:08:33,996 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.AuthService:AuthService:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService\pom.xml.
+2023-08-31 12:08:35,565 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/main/java
+2023-08-31 12:08:35,565 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/main/resources
+2023-08-31 12:08:35,565 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/main/resources
+2023-08-31 12:08:35,566 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/test/java
+2023-08-31 12:08:35,566 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/test/resources
+2023-08-31 12:08:36,770 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-08-31 12:08:37,946 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:08:37,992 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:08:38,000 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:08:43,757 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eurekaServer:eurekaServer:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer\pom.xml.
+2023-08-31 12:08:45,031 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:08:45,072 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:08:45,080 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:08:45,246 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 12:08:45,731 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eurekaServer:eurekaServer:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer\pom.xml.
+2023-08-31 12:08:47,400 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaServer/src/main/java
+2023-08-31 12:08:47,400 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/main/resources
+2023-08-31 12:08:47,401 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/main/resources
+2023-08-31 12:08:47,402 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaServer/src/test/java
+2023-08-31 12:08:47,402 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/test/resources
+2023-08-31 12:08:48,525 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2023-08-31 12:08:48,542 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 12:08:48,997 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eurekaServer:eurekaServer:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer\pom.xml.
+2023-08-31 12:08:50,141 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaServer/src/main/java
+2023-08-31 12:08:50,142 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/main/resources
+2023-08-31 12:08:50,142 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/main/resources
+2023-08-31 12:08:50,142 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaServer/src/test/java
+2023-08-31 12:08:50,142 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/test/resources
+2023-08-31 12:08:50,837 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-08-31 12:08:51,319 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:08:51,348 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:08:51,355 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:09:02,761 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.PersonalDetails:PersonalDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\PersonalDetails\pom.xml.
+2023-08-31 12:09:03,637 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:09:03,662 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:09:03,667 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:09:03,809 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 12:09:04,160 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.PersonalDetails:PersonalDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\PersonalDetails\pom.xml.
+2023-08-31 12:09:04,962 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PersonalDetails/src/main/java
+2023-08-31 12:09:04,962 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PersonalDetails/src/main/resources
+2023-08-31 12:09:04,962 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PersonalDetails/src/main/resources
+2023-08-31 12:09:04,963 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PersonalDetails/src/test/java
+2023-08-31 12:09:04,963 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PersonalDetails/src/test/resources
+2023-08-31 12:09:06,118 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-08-31 12:09:06,916 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:09:06,963 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:09:06,977 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:09:19,072 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ProductDetails:ProductDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ProductDetails\pom.xml.
+2023-08-31 12:09:19,708 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:09:19,729 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:09:19,733 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:09:19,821 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 12:09:20,094 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ProductDetails:ProductDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ProductDetails\pom.xml.
+2023-08-31 12:09:21,188 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductDetails/src/main/java
+2023-08-31 12:09:21,189 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductDetails/src/main/resources
+2023-08-31 12:09:21,189 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductDetails/src/main/resources
+2023-08-31 12:09:21,189 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductDetails/src/test/java
+2023-08-31 12:09:21,189 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductDetails/src/test/resources
+2023-08-31 12:09:22,242 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-08-31 12:09:22,940 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:09:22,970 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:09:22,977 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:09:33,930 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UserDetails:UserDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\UserDetails\pom.xml.
+2023-08-31 12:09:34,449 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:09:34,471 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:09:34,477 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:09:34,681 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 12:09:35,051 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UserDetails:UserDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\UserDetails\pom.xml.
+2023-08-31 12:09:36,459 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserDetails/src/main/java
+2023-08-31 12:09:36,460 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/main/resources
+2023-08-31 12:09:36,460 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/main/resources
+2023-08-31 12:09:36,460 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserDetails/src/test/java
+2023-08-31 12:09:36,461 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/test/resources
+2023-08-31 12:09:37,734 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-08-31 12:09:37,750 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 12:09:38,088 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UserDetails:UserDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\UserDetails\pom.xml.
+2023-08-31 12:09:39,205 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserDetails/src/main/java
+2023-08-31 12:09:39,206 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/main/resources
+2023-08-31 12:09:39,206 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/main/resources
+2023-08-31 12:09:39,206 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserDetails/src/test/java
+2023-08-31 12:09:39,206 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/test/resources
+2023-08-31 12:09:40,036 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-08-31 12:09:40,740 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:09:40,789 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:09:40,796 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:09:44,625 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 12:09:46,056 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.startPoint:startPoint:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\pom.xml.
+2023-08-31 12:09:46,110 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.APIGATEWAY:APIGATEWAY:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway\pom.xml.
+2023-08-31 12:09:46,607 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.AuthService:AuthService:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService\pom.xml.
+2023-08-31 12:09:46,955 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eurekaServer:eurekaServer:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer\pom.xml.
+2023-08-31 12:09:47,154 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.PersonalDetails:PersonalDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\PersonalDetails\pom.xml.
+2023-08-31 12:09:47,256 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ProductDetails:ProductDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ProductDetails\pom.xml.
+2023-08-31 12:09:47,349 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UserDetails:UserDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\UserDetails\pom.xml.
+2023-08-31 12:09:51,134 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2023-08-31 12:09:51,134 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2023-08-31 12:09:51,135 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2023-08-31 12:09:51,135 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2023-08-31 12:09:51,136 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/test/resources
+2023-08-31 12:09:52,196 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/main/java
+2023-08-31 12:09:52,196 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/main/resources
+2023-08-31 12:09:52,197 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/main/resources
+2023-08-31 12:09:52,197 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/test/java
+2023-08-31 12:09:52,197 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/test/resources
+2023-08-31 12:09:52,978 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaServer/src/main/java
+2023-08-31 12:09:52,978 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/main/resources
+2023-08-31 12:09:52,979 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/main/resources
+2023-08-31 12:09:52,979 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaServer/src/test/java
+2023-08-31 12:09:52,980 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/test/resources
+2023-08-31 12:09:53,762 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PersonalDetails/src/main/java
+2023-08-31 12:09:53,762 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PersonalDetails/src/main/resources
+2023-08-31 12:09:53,763 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PersonalDetails/src/main/resources
+2023-08-31 12:09:53,763 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PersonalDetails/src/test/java
+2023-08-31 12:09:53,764 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PersonalDetails/src/test/resources
+2023-08-31 12:09:54,608 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductDetails/src/main/java
+2023-08-31 12:09:54,608 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductDetails/src/main/resources
+2023-08-31 12:09:54,609 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductDetails/src/main/resources
+2023-08-31 12:09:54,609 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductDetails/src/test/java
+2023-08-31 12:09:54,610 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductDetails/src/test/resources
+2023-08-31 12:09:55,365 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserDetails/src/main/java
+2023-08-31 12:09:55,365 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/main/resources
+2023-08-31 12:09:55,365 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/main/resources
+2023-08-31 12:09:55,366 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserDetails/src/test/java
+2023-08-31 12:09:55,366 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/test/resources
+2023-08-31 12:09:57,163 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 7 poms: local refresh takes 0.00 sec, refresh facades takes 6.00 sec, update config takes 5.00 sec 
+2023-08-31 12:09:57,792 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:09:57,815 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:09:57,821 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:09:58,345 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:09:58,363 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:09:58,367 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:09:58,591 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:09:58,616 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:09:58,622 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:09:59,764 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:09:59,781 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:09:59,785 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:10:00,148 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:10:00,166 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:10:00,169 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:10:00,513 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 12:10:00,531 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:10:00,534 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:10:11,892 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-08-31 12:10:23,859 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [609])
+2023-08-31 12:10:23,862 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-08-31 12:10:23,863 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-08-31 12:10:23,863 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-08-31 12:10:23,863 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-08-31 12:10:23,863 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-08-31 12:10:23,864 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-08-31 12:10:23,864 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-08-31 12:10:23,864 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-08-31 12:10:23,864 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-08-31 12:10:23,864 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-08-31 12:10:23,864 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-08-31 12:10:23,865 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-08-31 12:10:23,865 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-08-31 12:10:23,865 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-08-31 12:10:23,865 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-08-31 12:10:23,865 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-08-31 12:10:23,866 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-08-31 12:10:23,866 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-08-31 12:10:23,866 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-08-31 12:10:23,866 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-08-31 12:10:23,866 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-08-31 12:10:23,866 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-08-31 12:10:23,866 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-08-31 12:10:23,867 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-08-31 12:10:23,867 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-08-31 12:10:23,867 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-08-31 12:10:23,867 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-08-31 12:10:23,867 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-08-31 12:10:23,867 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-08-31 12:10:23,868 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-08-31 12:10:23,868 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-08-31 12:10:23,868 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-08-31 12:10:23,868 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-08-31 12:10:23,868 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-08-31 12:10:23,868 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-08-31 12:10:23,869 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-08-31 12:10:23,869 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-08-31 12:10:23,871 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [11])
+2023-08-31 12:10:23,871 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\com.google.guava_31.1.0.jre.jar
+2023-08-31 12:10:23,871 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [923])
+2023-08-31 12:10:23,872 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-08-31 12:10:23,872 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [35])
+2023-08-31 12:10:23,873 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-08-31 12:10:23,873 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [33])
+2023-08-31 12:10:23,875 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-08-31 12:10:23,875 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [67])
+2023-08-31 12:10:23,876 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-08-31 12:10:23,876 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [13])
+2023-08-31 12:10:23,876 [Worker-11: Launching ApiGateway] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-08-31 12:10:23,879 [Worker-11: Launching ApiGateway] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway":
+2023-08-31 12:10:23,882 [Worker-11: Launching ApiGateway] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2023-08-31 12:10:49,537 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-08-31 12:10:53,771 [Worker-13: Launching AuthService] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService":
+2023-08-31 12:10:53,771 [Worker-13: Launching AuthService] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2023-08-31 12:12:03,543 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:12:03,544 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 12:12:03,546 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 12:12:09,581 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2023-08-31 12:12:09,630 [Worker-13: Launching AuthService] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService":
+2023-08-31 12:12:09,631 [Worker-13: Launching AuthService] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2023-08-31 12:12:32,821 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-08-31 12:12:40,302 [Worker-18: Launching EurekaServer] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer":
+2023-08-31 12:12:40,302 [Worker-18: Launching EurekaServer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2023-08-31 12:13:00,125 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-08-31 12:13:05,795 [Worker-6: Launching PersonalDetails] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\PersonalDetails":
+2023-08-31 12:13:05,795 [Worker-6: Launching PersonalDetails] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2023-08-31 12:13:27,681 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-08-31 12:13:34,720 [Worker-7: Launching ProductDetails] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ProductDetails":
+2023-08-31 12:13:34,720 [Worker-7: Launching ProductDetails] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2023-08-31 12:14:03,515 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-08-31 12:14:08,387 [Worker-13: Launching UserDetails] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\UserDetails":
+2023-08-31 12:14:08,387 [Worker-13: Launching UserDetails] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2023-08-31 12:25:12,387 [Worker-6: Launching PersonalDetails] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\PersonalDetails":
+2023-08-31 12:25:12,387 [Worker-6: Launching PersonalDetails] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2023-08-31 12:29:53,875 [Worker-11: Launching Run_all] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer":
+2023-08-31 12:29:53,875 [Worker-11: Launching Run_all] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2023-08-31 12:31:27,943 [main] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.workspace.cli_0.3.1 [621])
+2023-08-31 12:31:27,952 [main] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NTS-Megha Hirmukhe\.p2\pool\plugins\org.eclipse.m2e.workspace.cli_0.3.1.jar
+2023-08-31 12:32:25,302 [Worker-28: Launching Run_all] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway":
+2023-08-31 12:32:25,302 [Worker-28: Launching Run_all] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2023-08-31 12:33:26,541 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-08-31 12:33:35,032 [Worker-29: Launching startPoint] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint":
+2023-08-31 12:33:35,033 [Worker-29: Launching startPoint] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always mvn clean install
+2023-08-31 12:33:47,544 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-08-31 12:33:55,908 [Worker-29: Launching EurekaServer] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer":
+2023-08-31 12:33:55,910 [Worker-29: Launching EurekaServer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always mvn clean install
+2023-08-31 12:34:05,877 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2023-08-31 12:34:05,947 [Worker-28: Launching EurekaServer] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer":
+2023-08-31 12:34:05,947 [Worker-28: Launching EurekaServer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always mvn clean install
+2023-08-31 12:34:12,312 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-08-31 12:34:18,218 [Worker-30: Launching EurekaServer (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer":
+2023-08-31 12:34:18,218 [Worker-30: Launching EurekaServer (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2023-08-31 12:35:04,377 [Worker-11: Launching EurekaServer] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer":
+2023-08-31 12:35:04,378 [Worker-11: Launching EurekaServer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always mvn clean install
+2023-08-31 12:36:01,162 [Worker-28: Launching Run_all] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway":
+2023-08-31 12:36:01,162 [Worker-28: Launching Run_all] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2023-08-31 13:16:49,559 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 13:16:50,785 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.startPoint:startPoint:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\pom.xml.
+2023-08-31 13:16:51,106 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.APIGATEWAY:APIGATEWAY:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ApiGateway\pom.xml.
+2023-08-31 13:16:51,743 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.AuthService:AuthService:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\AuthService\pom.xml.
+2023-08-31 13:16:52,152 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eurekaServer:eurekaServer:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\EurekaServer\pom.xml.
+2023-08-31 13:16:52,247 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.PersonalDetails:PersonalDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\PersonalDetails\pom.xml.
+2023-08-31 13:16:52,310 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ProductDetails:ProductDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\ProductDetails\pom.xml.
+2023-08-31 13:16:52,360 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UserDetails:UserDetails:0.0.1-SNAPSHOT @ C:\Users\NTS-Megha Hirmukhe\Desktop\angular-fullStackApp\Task\startPoint\UserDetails\pom.xml.
+2023-08-31 13:16:55,271 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2023-08-31 13:16:55,271 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2023-08-31 13:16:55,272 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2023-08-31 13:16:55,272 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2023-08-31 13:16:55,272 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/test/resources
+2023-08-31 13:16:56,021 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/main/java
+2023-08-31 13:16:56,021 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/main/resources
+2023-08-31 13:16:56,021 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/main/resources
+2023-08-31 13:16:56,022 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/test/java
+2023-08-31 13:16:56,022 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AuthService/src/test/resources
+2023-08-31 13:16:56,824 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaServer/src/main/java
+2023-08-31 13:16:56,825 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/main/resources
+2023-08-31 13:16:56,825 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/main/resources
+2023-08-31 13:16:56,826 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaServer/src/test/java
+2023-08-31 13:16:56,827 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServer/src/test/resources
+2023-08-31 13:16:57,783 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PersonalDetails/src/main/java
+2023-08-31 13:16:57,784 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PersonalDetails/src/main/resources
+2023-08-31 13:16:57,784 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PersonalDetails/src/main/resources
+2023-08-31 13:16:57,784 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PersonalDetails/src/test/java
+2023-08-31 13:16:57,784 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PersonalDetails/src/test/resources
+2023-08-31 13:16:58,646 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductDetails/src/main/java
+2023-08-31 13:16:58,647 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductDetails/src/main/resources
+2023-08-31 13:16:58,648 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductDetails/src/main/resources
+2023-08-31 13:16:58,650 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductDetails/src/test/java
+2023-08-31 13:16:58,651 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductDetails/src/test/resources
+2023-08-31 13:16:59,687 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserDetails/src/main/java
+2023-08-31 13:16:59,688 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/main/resources
+2023-08-31 13:16:59,688 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/main/resources
+2023-08-31 13:16:59,689 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserDetails/src/test/java
+2023-08-31 13:16:59,689 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UserDetails/src/test/resources
+2023-08-31 13:17:01,851 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 7 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 5.00 sec 
+2023-08-31 13:17:02,492 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 13:17:02,527 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 13:17:02,533 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 13:17:03,380 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 13:17:03,420 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 13:17:03,427 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 13:17:04,098 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 13:17:04,123 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 13:17:04,129 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 13:17:04,861 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 13:17:04,896 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 13:17:04,902 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 13:17:05,647 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 13:17:05,669 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 13:17:05,674 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 13:17:06,195 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 13:17:06,210 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 13:17:06,213 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 15:40:38,467 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 15:40:38,662 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 15:40:38,667 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 15:40:47,819 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 15:40:47,919 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 15:40:47,923 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 15:41:33,279 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 15:41:33,313 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 15:41:33,318 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 15:41:37,691 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 15:41:37,703 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 15:41:37,708 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 15:41:43,070 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 15:41:43,080 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 15:41:43,085 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 15:41:48,054 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 15:41:48,064 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 15:41:48,069 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 15:55:38,327 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 15:55:38,339 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 15:55:38,358 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 15:55:47,891 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 15:55:47,901 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 15:55:47,903 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 15:55:50,082 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 15:55:50,094 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 15:55:50,096 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 15:55:59,961 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 15:55:59,968 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 15:55:59,972 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 15:56:02,456 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 15:56:02,462 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 15:56:02,464 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-08-31 15:56:05,083 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-08-31 15:56:05,095 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 15:56:05,104 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
