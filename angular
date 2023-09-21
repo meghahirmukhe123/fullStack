@@ -1,0 +1,86 @@
+\/In 2023 we are using Version 16 of Angular 
+
+/Angular is front end web development framework.
+
+/npm(node package manager)
+
+/angular CLI (command line interface)
+= it is command line interface tool for which we can
+use to create angular applications.
+=it also use to create component,classes,services
+=use to develope our project.
+
+/to install angular CLI
+1.in cmd hit "npm install -g @angular/cli" this url
+2.to check version of angular cli "ng version"
+3.to run angular application "ng serve"
+4.to install bootstrap "npm install bootstrap --save" OR  ng add @ng-bootstrap/ng-bootstrap
+5.to create typescript class "ng g class classname"   -->'g' for generate
+6.to enter in root project "cd .\projectName\"
+7.to create component "ng g c second"  -->'c' for component
+
+/main.ts file is entry point of application
+
+/ *ngFor
+-same as for loop in java
+
+/ {{}} 
+=this is called interpolation
+
+/@Input
+-input decorator is use to create custom-properties(those properties which are not present in html but still want to use for component) for component.
+
+/bootstrap
+-it helps to reduce use of css.
+
+/Routing
+-without reloading we can move to another url.
+
+/Binding
+1.Property binding= []
+2.event binding= () 
+ex: (click)="which-method-have-to-execute-after-clicking"
+
+/Event-Propogation
+-use to stop event bubbling
+
+/MVC(model view controller)
+
+/NPM(Node package manager)
+
+/First version or oldest verion of angular is called angular js.But from 2016 it is called as "Angular".
+Angular js is not in use nowdays.
+
+/In angular 12 when we creates function with parameter we have to declare a datatype of argument becoz in "tsconfig.json" file the feild "Strict" is true.
+if in "tsconfig.json" file the feild "Strict" is false then there is no need to define datatype of paramater of function.
+
+/If we have write logic for style in style.css,in component.css,internal css first internal css will apply then componet css then style css will apply
+
+/"ngIf" is a directive in Angular.
+
+/Material UI
+ -to make page responsive and give rich look to page we use material UI.
+
+/Pipes always used in HTML page not in typeScript file.
+
+/When we want to send data to database we use forms.
+  -There are 2 types of forms are there in angular
+  1.Template driven forms 
+  -whole code for form will write in HTML file (app.component.html)
+  2.Reactive forms
+  -whole code for form will write in class file (app.component.ts)
+
+/how many types of API are there
+ -POST API
+ -PUT API	
+ -GET API
+ -PATCH API ..etc
+
+
+/StandAlone component
+-those component who are not depend on any other module,component is called standalone component.
+
+/View Engine is compiler.In angular 13 view engine is used as compiler.
+
+________________________________________________________________________________________
+
